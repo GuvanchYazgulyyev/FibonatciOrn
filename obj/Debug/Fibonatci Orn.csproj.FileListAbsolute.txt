@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\bin\Debug\Fibonatci Orn.exe.config
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\bin\Debug\Fibonatci Orn.exe
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\bin\Debug\Fibonatci Orn.pdb
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\obj\Debug\Fibonatci Orn.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\obj\Debug\Fibonatci_Orn.Form1.resources
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\obj\Debug\Fibonatci_Orn.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\obj\Debug\Fibonatci Orn.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\obj\Debug\Fibonatci Orn.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\obj\Debug\Fibonatci Orn.exe
+C:\Users\Dell\source\repos\C# ders 6\Fibonatci Orn\Fibonatci Orn\obj\Debug\Fibonatci Orn.pdb
